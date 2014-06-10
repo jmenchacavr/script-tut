@@ -19,7 +19,7 @@ Thus, with any UNIX or Linux system, you can expect awk to be available.  For Wi
 - UWIN: Toolset from AT&T that contains tool chain typically found with SVR4 UNIX.
   - http://www2.research.att.com/sw/download/
 - GitBash (msysgit): Tools built with Mingw, integrate with Windows and can be used along side Windows tools.  However, the version of awk included is a very old version of gawk.
-- Cygwin: Enviroment on top of Windows that provides GNU tools.
+- Cygwin: Environment on top of Windows that provides GNU tools.
 
 ## How It Works
 
